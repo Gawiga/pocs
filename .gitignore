@@ -1,3 +1,9 @@
-injection/.vs/
-async/async/bin/
 async/.vs/
+async/async/bin/
+async/async/obj/
+csharp11/.vs/
+csharp11/csharp11/bin/
+csharp11/csharp11/obj/
+injection/.vs/
+injection/injection/bin/
+injection/injection/obj/
